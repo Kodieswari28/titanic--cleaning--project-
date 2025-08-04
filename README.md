@@ -30,4 +30,4 @@ Cleaned dataset with reduced null values and no outliers, ready for model traini
 
 ## 📷 Sample Output
 ```python
-Cleaned data saved as titanic_cleaned.csv
+Cleaned data saved as 'titanic_cleaned. csv'
