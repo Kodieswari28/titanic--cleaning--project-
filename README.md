@@ -1,4 +1,4 @@
-# Titanic Dataset Cleaning Project 🛳️
+1# Titanic Dataset Cleaning Project 🛳️
 
 This project focuses on cleaning and preprocessing the Titanic dataset using Python (Pandas, NumPy, Seaborn, Matplotlib). The cleaned dataset is saved for further analysis or machine learning modeling.
 
