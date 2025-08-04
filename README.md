@@ -4,7 +4,7 @@ This project focuses on cleaning and preprocessing the Titanic dataset using Pyt
 
 ## 📁 Files Included
 
-- 'titanic_cleaned.csv` – Jupyter Notebook with all preprocessing steps
+- 'titanic_cleaned. csv` – Jupyter Notebook with all preprocessing steps
 - `titanic_cleaned.csv` – Final cleaned dataset
 - `README.md` – Project documentation
 
